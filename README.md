@@ -1,15 +1,15 @@
 # Project Name
 
-Platform:  
-Organizers:  
-Competition Page: 
+Platform:  **Kaggle**  
+Organizers:  **Google Brain**  
+Competition Page: https://www.kaggle.com/c/ventilator-pressure-prediction/
 
 ## About
 
 ## Dataset Overview
 
 ## Evaluation Metrics
-
+`mean-absolute-error`
 ## Directory Navigation
 ### docs
 
